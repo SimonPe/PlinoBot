@@ -6,7 +6,7 @@
 
 <p align="center">
 <p align="center">
-  <a href="[https://discord.gg/red](https://discord.gg/EbP4kqGKCe)">
+  <a href="https://discord.gg/EbP4kqGKCe">
     <img src="https://discordapp.com/api/guilds/975335554721910824/widget.png?style=shield" alt="Serveur Discord">
   </a>
   <a href="https://www.python.org/downloads/">
