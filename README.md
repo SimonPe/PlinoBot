@@ -5,20 +5,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://discord.gg/red">
-    <img src="https://https://discordapp.com/api/guilds/975335554721910824/widget.png?style=shield)" alt="Discord Server">
-  </a>
-  <a href="https://pypi.org/project/Red-DiscordBot/">
-     <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
+<p align="center">
+  <a href="[https://discord.gg/red](https://discord.gg/EbP4kqGKCe)">
+    <img src="https://discordapp.com/api/guilds/975335554721910824/widget.png?style=shield" alt="Serveur Discord">
   </a>
   <a href="https://www.python.org/downloads/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
   </a>
   <a href="https://github.com/Rapptz/discord.py/">
      <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
-  </a>
-  <a href="https://www.patreon.com/Red_Devs">
-    <img src="https://img.shields.io/badge/Support-Red!-red.svg" alt="Support Red on Patreon!">
   </a>
 </p>
 <p align="center">
