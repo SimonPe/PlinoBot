@@ -2,7 +2,6 @@
   <br>
   <a href=""><img src="" alt="PlinoBot V1"></a>
   <br>
-  Red Discord Bot
   <br>
 </h1>
 
