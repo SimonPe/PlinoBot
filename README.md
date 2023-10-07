@@ -1,6 +1,3 @@
-# 🎈 PlinoBot-V1
-PlinoBot-V1 est un bot en Python open Source que tu peux utiliser !
-
 <h1 align="center">
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="PlinoBot V1"></a>
