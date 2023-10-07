@@ -50,10 +50,9 @@
 
 # Overview
 
-Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your
-liking, making it completely customizable. This is a *self-hosted bot* – meaning you will need
-to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot,
-new best friend or all of these together!  
+Plino est un bot entièrement modulaire, le rendant entièrement personnalisable. Il s'agit d'un *bot a héberger* – ce qui signifie que vous aurez besoin
+pour héberger et maintenir votre propre instance. Vous pouvez transformer Red en un robot administrateur, un robot musical, un robot quiz,
+nouveau meilleur ami ou tous ensemble !
 
 [Installation](#installation) is easy, and you do **NOT** need to know anything about coding! Aside
 from installing and updating, every part of the bot can be controlled from within Discord.
