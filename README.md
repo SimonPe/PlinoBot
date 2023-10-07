@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="PlinoBot V1"></a>
+  <a href=""><img src="" alt="PlinoBot V1"></a>
   <br>
   Red Discord Bot
   <br>
