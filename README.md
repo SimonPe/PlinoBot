@@ -50,14 +50,12 @@
 
 # Overview
 
-Plino est un bot entièrement modulaire, le rendant entièrement personnalisable. Il s'agit d'un *bot a héberger* – ce qui signifie que vous aurez besoin
-pour héberger et maintenir votre propre instance. Vous pouvez transformer Red en un robot administrateur, un robot musical, un robot quiz,
-nouveau meilleur ami ou tous ensemble !
+Plino est un bot entièrement modulaire, le rendant entièrement personnalisable. 
 
-[Installation](#installation) is easy, and you do **NOT** need to know anything about coding! Aside
-from installing and updating, every part of the bot can be controlled from within Discord.
+[Installation](#installation) est simple, et vous n'avez **PAS** besoin de connaître quoi que ce soit en codage ! De côté
+depuis l'installation et la mise à jour, chaque partie du bot peut être contrôlée depuis Discord.
 
-**The default set of modules includes and is not limited to:**
+**L'ensemble des modules a avoir:**
 
 - Moderation features (kick/ban/softban/hackban, mod-log, filter, chat cleanup)
 - Trivia (lists are included and can be easily added)
