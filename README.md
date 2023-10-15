@@ -45,8 +45,8 @@ depuis l'installation et la mise à jour, chaque partie du bot peut être contr�
 
 **Les plateformes suivantes sont officiellement prises en charge :**
 
-- [Windows]  https://docs.discord.red/en/stable/install_guides/windows.html](https://www.python.org/downloads/windows
-- [MacOS]  https://docs.discord.red/en/stable/install_guides/mac.html](https://www.python.org/downloads/macos
+- [Windows]  https://www.python.org/downloads/windows
+- [MacOS]  https://www.python.org/downloads/macos
 
 # Rejoignez la communauté !
 
