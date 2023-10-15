@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a>
+  <a href="#overview">Aperçu</a>
   •
   <a href="#installation">Installation</a>
   •
