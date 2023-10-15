@@ -66,8 +66,8 @@ depuis l'installation et la mise à jour, chaque partie du bot peut être contr�
 
 **Les plateformes suivantes sont officiellement prises en charge :**
 
-- [Windows]([https://docs.discord.red/en/stable/install_guides/windows.html](https://www.python.org/downloads/windows/))
-- [MacOS]([https://docs.discord.red/en/stable/install_guides/mac.html](https://www.python.org/downloads/macos/))
+- [Windows]([https://docs.discord.red/en/stable/install_guides/windows.html](https://www.python.org/downloads/windows/])
+- [MacOS]([https://docs.discord.red/en/stable/install_guides/mac.html](https://www.python.org/downloads/macos])
 
 If after reading the guide you are still experiencing issues, feel free to join the
 [Official Discord Server](https://discord.gg/red) and ask in the **#support** channel for help.
