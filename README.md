@@ -62,16 +62,12 @@ depuis l'installation et la mise à jour, chaque partie du bot peut être contr�
 - random
 - youtube_dl
 
-**Additionally, other [plugins](#plugins) (cogs) can be easily found and added from our growing
-community of cog repositories.**
-
 # Installation
 
-**The following platforms are officially supported:** 
+**Les plateformes suivantes sont officiellement prises en charge :**
 
-- [Windows](https://docs.discord.red/en/stable/install_guides/windows.html)
-- [MacOS](https://docs.discord.red/en/stable/install_guides/mac.html)
-- [Most major linux distributions](https://docs.discord.red/en/stable/install_guides/index.html)
+- [Windows]([https://docs.discord.red/en/stable/install_guides/windows.html](https://www.python.org/downloads/windows/))
+- [MacOS]([https://docs.discord.red/en/stable/install_guides/mac.html](https://www.python.org/downloads/macos/))
 
 If after reading the guide you are still experiencing issues, feel free to join the
 [Official Discord Server](https://discord.gg/red) and ask in the **#support** channel for help.
