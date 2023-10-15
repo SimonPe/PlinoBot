@@ -52,20 +52,15 @@
 
 Plino est un bot entièrement modulaire, le rendant entièrement personnalisable. 
 
-[Installation](#installation) est simple, et vous n'avez **PAS** besoin de connaître quoi que ce soit en codage ! De côté
+[L'Installation](#installation) est simple, et vous n'avez **PAS** besoin de connaître quoi que ce soit en codage ! De côté
 depuis l'installation et la mise à jour, chaque partie du bot peut être contrôlée depuis Discord.
 
 **L'ensemble des modules a avoir:**
 
-- Moderation features (kick/ban/softban/hackban, mod-log, filter, chat cleanup)
-- Trivia (lists are included and can be easily added)
-- Music features (YouTube, SoundCloud, local files, playlists, queues)
-- Stream alerts (Twitch, Youtube, Picarto)
-- Bank (slot machine, user credits)
-- Custom commands
-- Imgur/gif search
-- Admin automation (self-role assignment, cross-server announcements, mod-mail reports)
-- Customisable command permissions
+- discord
+- de discord: commands
+- random
+- youtube_dl
 
 **Additionally, other [plugins](#plugins) (cogs) can be easily found and added from our growing
 community of cog repositories.**
