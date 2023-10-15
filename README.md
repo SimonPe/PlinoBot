@@ -39,13 +39,7 @@
   •
   <a href="#installation">Installation</a>
   •
-  <a href="http://docs.discord.red/en/stable/index.html">Documentation</a>
-  •
-  <a href="#plugins">Plugins</a>
-  •
   <a href="#join-the-community">Community</a>
-  •
-  <a href="#license">License</a>
 </p>
 
 # Overview
