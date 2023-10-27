@@ -242,4 +242,4 @@ async def TestE(ctx):
                           url="https://discord.com/",
                           color=0xfa8072)
               
-bot.run("ODYwODk0OTA4NjcxMDY2MTEz.YOB43A.hh3eOaxvxnLQc39NS5_coYfJJuY")
+bot.run("VOTRE TOKEN")
